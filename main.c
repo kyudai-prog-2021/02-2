@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main(void)
+int main()
 {
     int i,j;
     unsigned int u;
